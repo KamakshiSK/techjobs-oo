@@ -20,7 +20,7 @@ public class JobForm {
     private String name;
 
     @NotNull
-    private int employerId;
+        private int employerId;
 
     /*
         TODO #3 - Included other fields needed to create a job,
